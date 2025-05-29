@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS trivia;
+USE trivia;
+
+CREATE TABLE IF NOT EXISTS estadisticas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(50) NOT NULL,
+    puntuacion INT NOT NULL,
+    fecha DATETIME NOT NULL
+);
