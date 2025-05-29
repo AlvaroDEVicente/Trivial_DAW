@@ -61,3 +61,12 @@ https://github.com/AlvaroDEVicente/Trivial_DAW
 ## Licencia
 
 Uso educativo. Todos los derechos reservados.
+
+### IMPORTANTE: Configuración de la base de datos MySQL
+
+Para que el sistema de puntuaciones funcione correctamente, el usuario debe:
+
+1. Tener instalado MySQL en su equipo (por ejemplo, XAMPP, WAMP o instalación directa).
+2. Ejecutar el script `instalacion_mysql.sql` incluido en el repositorio. Este script creará automáticamente la base de datos `trivia` y la tabla `estadisticas` necesarias para almacenar resultados.
+3. Verificar que las credenciales de conexión indicadas en el archivo `ConexionBD.java` coincidan con las de su sistema (usuario, contraseña, puerto, etc.).
+
