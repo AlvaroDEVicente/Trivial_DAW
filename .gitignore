@@ -1,0 +1,13 @@
+/bin/
+/target/
+/.settings/
+/.classpath
+.project
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.iml
+.idea/
+*.jar

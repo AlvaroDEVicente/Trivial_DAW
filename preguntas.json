@@ -1,0 +1,242 @@
+[
+  {
+    "enunciado": "¿Cuál es la capital de Francia?",
+    "opciones": ["Madrid", "París", "Roma", "Berlín"],
+    "respuestaCorrecta": 1,
+    "categoria": "Geografía",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Dónde se encuentra el monte Everest?",
+    "opciones": ["China", "India", "Nepal", "Bután"],
+    "respuestaCorrecta": 2,
+    "categoria": "Geografía",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Cuál es el río más largo del mundo?",
+    "opciones": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+    "respuestaCorrecta": 1,
+    "categoria": "Geografía",
+    "nivel": 2
+  },
+  {
+    "enunciado": "¿Qué país tiene más islas?",
+    "opciones": ["Indonesia", "Filipinas", "Suecia", "Canadá"],
+    "respuestaCorrecta": 2,
+    "categoria": "Geografía",
+    "nivel": 2
+  },
+  {
+    "enunciado": "¿Cuál es el continente más poblado?",
+    "opciones": ["África", "Asia", "Europa", "América"],
+    "respuestaCorrecta": 1,
+    "categoria": "Geografía",
+    "nivel": 1
+  },
+
+  {
+    "enunciado": "¿Quién escribió 'Don Quijote'?",
+    "opciones": ["García Lorca", "Quevedo", "Cervantes", "Lope de Vega"],
+    "respuestaCorrecta": 2,
+    "categoria": "Arte y Literatura",
+    "nivel": 2
+  },
+  {
+    "enunciado": "¿Quién pintó la Capilla Sixtina?",
+    "opciones": ["Miguel Ángel", "Da Vinci", "Rafael", "Caravaggio"],
+    "respuestaCorrecta": 0,
+    "categoria": "Arte y Literatura",
+    "nivel": 2
+  },
+  {
+    "enunciado": "¿Cuál es el autor de 'Cien años de soledad'?",
+    "opciones": [
+      "Mario Vargas Llosa",
+      "Gabriel García Márquez",
+      "Pablo Neruda",
+      "Isabel Allende"
+    ],
+    "respuestaCorrecta": 1,
+    "categoria": "Arte y Literatura",
+    "nivel": 2
+  },
+  {
+    "enunciado": "¿Qué estilo artístico representa Salvador Dalí?",
+    "opciones": ["Cubismo", "Impresionismo", "Surrealismo", "Realismo"],
+    "respuestaCorrecta": 2,
+    "categoria": "Arte y Literatura",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Quién es el autor de 'La Odisea'?",
+    "opciones": ["Virgilio", "Homero", "Sófocles", "Platón"],
+    "respuestaCorrecta": 1,
+    "categoria": "Arte y Literatura",
+    "nivel": 3
+  },
+
+  {
+    "enunciado": "¿En qué año cayó el muro de Berlín?",
+    "opciones": ["1987", "1989", "1991", "1993"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "nivel": 2
+  },
+  {
+    "enunciado": "¿Quién fue el primer presidente de los EE.UU.?",
+    "opciones": [
+      "Thomas Jefferson",
+      "George Washington",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Qué imperio construyó el Coliseo?",
+    "opciones": ["Griego", "Egipcio", "Romano", "Bizantino"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Cuál fue la causa de la Primera Guerra Mundial?",
+    "opciones": [
+      "Caída de Napoleón",
+      "Asesinato del archiduque",
+      "Invención del telégrafo",
+      "Independencia de EE.UU."
+    ],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "nivel": 3
+  },
+  {
+    "enunciado": "¿Quién lideró la independencia de la India?",
+    "opciones": ["Nehru", "Gandhi", "Mandela", "Churchill"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "nivel": 2
+  },
+
+  {
+    "enunciado": "¿Cuál es la película con más Óscars ganados?",
+    "opciones": [
+      "Titanic",
+      "Ben-Hur",
+      "El Señor de los Anillos: El Retorno del Rey",
+      "Todas las anteriores"
+    ],
+    "respuestaCorrecta": 3,
+    "categoria": "Entretenimiento",
+    "nivel": 2
+  },
+  {
+    "enunciado": "¿Quién canta 'Shape of You'?",
+    "opciones": ["Justin Bieber", "Ed Sheeran", "Bruno Mars", "Shawn Mendes"],
+    "respuestaCorrecta": 1,
+    "categoria": "Entretenimiento",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Qué serie tiene un trono de hierro?",
+    "opciones": ["Vikingos", "The Witcher", "Juego de Tronos", "Los Tudor"],
+    "respuestaCorrecta": 2,
+    "categoria": "Entretenimiento",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Qué actor interpreta a Iron Man?",
+    "opciones": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "respuestaCorrecta": 1,
+    "categoria": "Entretenimiento",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Cuál es el nombre del fontanero de Nintendo?",
+    "opciones": ["Luigi", "Mario", "Bowser", "Toad"],
+    "respuestaCorrecta": 1,
+    "categoria": "Entretenimiento",
+    "nivel": 1
+  },
+
+  {
+    "enunciado": "¿Cuál es el planeta más grande del sistema solar?",
+    "opciones": ["Saturno", "Tierra", "Marte", "Júpiter"],
+    "respuestaCorrecta": 3,
+    "categoria": "Ciencia",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Qué partícula tiene carga negativa?",
+    "opciones": ["Protón", "Neutrón", "Electrón", "Ión"],
+    "respuestaCorrecta": 2,
+    "categoria": "Ciencia",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Cuál es la fórmula del agua?",
+    "opciones": ["H2O", "CO2", "NaCl", "O2"],
+    "respuestaCorrecta": 0,
+    "categoria": "Ciencia",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Quién propuso la teoría de la relatividad?",
+    "opciones": ["Newton", "Tesla", "Einstein", "Hawking"],
+    "respuestaCorrecta": 2,
+    "categoria": "Ciencia",
+    "nivel": 2
+  },
+  {
+    "enunciado": "¿Cuál es la unidad básica de la vida?",
+    "opciones": ["Tejido", "Órgano", "Célula", "Molécula"],
+    "respuestaCorrecta": 2,
+    "categoria": "Ciencia",
+    "nivel": 1
+  },
+
+  {
+    "enunciado": "¿En qué deporte se usa un puck?",
+    "opciones": ["Tenis", "Hockey sobre hielo", "Fútbol", "Rugby"],
+    "respuestaCorrecta": 1,
+    "categoria": "Deportes",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Quién tiene más Balones de Oro?",
+    "opciones": ["Messi", "Cristiano", "Maradona", "Pelé"],
+    "respuestaCorrecta": 0,
+    "categoria": "Deportes",
+    "nivel": 2
+  },
+  {
+    "enunciado": "¿Qué país organizó los JJ.OO. en 2020?",
+    "opciones": ["China", "Japón", "Brasil", "Alemania"],
+    "respuestaCorrecta": 1,
+    "categoria": "Deportes",
+    "nivel": 2
+  },
+  {
+    "enunciado": "¿Cuántos jugadores tiene un equipo de voleibol en cancha?",
+    "opciones": ["5", "6", "7", "11"],
+    "respuestaCorrecta": 1,
+    "categoria": "Deportes",
+    "nivel": 1
+  },
+  {
+    "enunciado": "¿Qué deporte practica Rafa Nadal?",
+    "opciones": ["Balonmano", "Tenis", "Golf", "Ciclismo"],
+    "respuestaCorrecta": 1,
+    "categoria": "Deportes",
+    "nivel": 1
+  }
+]
