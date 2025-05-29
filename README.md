@@ -1,4 +1,4 @@
-# TrivialMultijugador - Proyecto Final de Programación
+# TriviAlvaro - Proyecto Final de Programación
 
 Este proyecto forma parte del trabajo final de la asignatura **Programación** del ciclo **Desarrollo de Aplicaciones Web (DAW)**. Consiste en una aplicación de trivia multijugador desarrollada en Java, con interfaz gráfica, base de datos y gestión de ficheros, e integra conceptos clave vistos durante el curso.
 
